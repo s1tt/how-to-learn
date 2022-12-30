@@ -1,6 +1,12 @@
-.khan__book-link {
+.khan__buy-link {
+  align-self: flex-start;
   line-height: 42px;
   font-size: 30px;
   text-decoration: none;
   color: #2f80ed;
+  transition: 0.4s;
+}
+
+.khan__buy-link:hover {
+  opacity: 0.3;
 }
