@@ -1,4 +1,4 @@
-## How to learn
+## Проект: How to learn
 ### 👨🏽‍💻 Author: Sergei Alekseev
 
 # Описание:
